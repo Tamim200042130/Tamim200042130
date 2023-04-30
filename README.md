@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tamim200042130
+- 👋 Hi, I’m Mohammad Tamim Ibn Hossain
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning some programming languages.
 - 💞️ I’m looking to collaborate on any project.

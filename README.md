@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Tamim Ibn Hossain! 👋
+# Hi there, I'm Md. Siamul Mubin Tamim! 👋
 
 I'm a passionate learner and software developer who loves to explore new technologies and build cool projects.
 
@@ -16,9 +16,9 @@ I'm a passionate learner and software developer who loves to explore new technol
 
 ## 🚀 Skills and Tools:
 
-- **Languages:** Python, JavaScript, Dart
+- **Languages:** C, C++, HTML, CSS, JavaScript, Java, Dart
 - **Frameworks:** Flutter, React, Node.js
-- **Tools:** Git, VS Code, Docker
+- **Tools:** Git, VS Code, Android Studio, Docker
 
 ---
 
@@ -32,6 +32,6 @@ I'm a passionate learner and software developer who loves to explore new technol
 
 ## 📫 Let's Connect:
 
-[![Linkedin](https://img.shields.io/badge/-Tamim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamim-ibn-hossain/)](https://www.linkedin.com/in/tamim-ibn-hossain/)
+[![Linkedin](https://img.shields.io/badge/-Tamim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamim-ibn-hossain/)](https://www.linkedin.com/in/tamim-ibn-hossain/](https://www.linkedin.com/in/mohammad-tamim-ibn-hossain-aa44b623a/)
 [![GitHub](https://img.shields.io/badge/-Tamim-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Tamim200042130)](https://github.com/Tamim200042130)
 

@@ -7,6 +7,8 @@ I'm a passionate learner and software developer who loves to explore new technol
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything tech-related, I'm happy to help!
 - 📫 Reach me at: siamulmubin@iut-dhaka.edu
+- 📂 Check out my portfolio: [Portfolio](https://portfoliotamim.vercel.app/)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tamim200042130)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Tamim200042130/Tamim200042130?label=Total%20Commits)](https://github.com/Tamim200042130)
@@ -31,6 +33,6 @@ I'm a passionate learner and software developer who loves to explore new technol
 ---
 
 ## 📫 Let's Connect:
-[![Linkedin](https://img.shields.io/badge/-Tamim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/tamim-ibn-hossain/](https://www.linkedin.com/in/tamim-ibn-hossain/](https://www.linkedin.com/in/mohammad-tamim-ibn-hossain-aa44b623a/))]([https://www.linkedin.com/in/tamim-ibn-hossain/](https://www.linkedin.com/in/tamim-ibn-hossain/](https://www.linkedin.com/in/mohammad-tamim-ibn-hossain-aa44b623a/))
+[![Linkedin](https://img.shields.io/badge/-Tamim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-tamim-ibn-hossain-aa44b623a/)](https://www.linkedin.com/in/mohammad-tamim-ibn-hossain-aa44b623a/)
 [![GitHub](https://img.shields.io/badge/-Tamim-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Tamim200042130)](https://github.com/Tamim200042130)
 
